@@ -1,4 +1,4 @@
-Welcome to your new dbt project! Kefri
+Welcome to your new dbt project! Kefri Ismail
 
 ### Using the starter project
 
